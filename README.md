@@ -47,8 +47,7 @@ Quickselect_Advanced_Algorithms/
 ├── median_two_unsorted_arrays.py
 ├── gpu_quickselect.py
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Algorithms
